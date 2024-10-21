@@ -1,5 +1,5 @@
 # Lab Computação em Nuvem
-Este repositório contém o resumo do Lab Computação em Nuvem do Bootcamp Microsoft Azure Essentials na Dio. No Lab, foi a presentado o portal Microsoft Azure, como acessar serviços e algumas configurações.
+Este repositório contém o resumo do Lab Computação em Nuvem do Bootcamp Microsoft Azure Essentials na Dio. No Lab, foi apresentado o portal Microsoft Azure, como acessar serviços e algumas configurações.
 
 ## Resumo do Lab
 
