@@ -22,12 +22,13 @@ Abaixo a lista desses benefícios:
 
 7. **Governança** - A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com os padrões corporativos e fornece estratégias de mitigação. Dependendo do seu modelo operacional, patches de software e atualizações também podem ser aplicados automaticamente, o que ajuda na governança e na segurança. Ao estabelecer uma presença de governança o mais cedo possível, você poderá manter sua presença de nuvem atualizada, protegida e bem gerenciada.
 
-8. **Gerenciabilidade** - Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. Há dois tipos de capacidade de gerenciamento para computação em nuvem e ambos trazem excelentes benefícios.
-O gerenciamento da nuvem diz respeito a _gerenciar seus recursos de nuvem_. Por exemplo:
+8. **Gerenciabilidade** - Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. Há dois tipos de capacidade de gerenciamento para computação em nuvem e ambos trazem excelentes benefícios. 
+
+   a) O gerenciamento da nuvem diz respeito a _gerenciar seus recursos de nuvem_. Por exemplo:
    - Escalar automaticamente a implantação de recursos com base na necessidade;
    - Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
    
-   O gerenciamento na nuvem diz respeito à _maneira de gerenciar seu ambiente de nuvem e seus recursos_. Por exemplo:
+   b) O gerenciamento na nuvem diz respeito à _maneira de gerenciar seu ambiente de nuvem e seus recursos_. Por exemplo:
    - Por meio de um portal da Web;
    - Usando uma interface de linha de comando (CLI);
    - Usando APIs;
